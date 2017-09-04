@@ -1,0 +1,2 @@
+%{"cabbage": {:hex, :cabbage, "0.3.3", "fc69e0bc8776d2c5b0eaa33fa9d6b3808b963e6ab831cd5c6228563cfa102d3a", [], [{:gherkin, "~> 1.4", [hex: :gherkin, repo: "hexpm", optional: false]}], "hexpm"},
+  "gherkin": {:hex, :gherkin, "1.4.0", "b7b6a80029725a4b29a1c58f96ddb3fa9409d4fa907503384b1f86392491fcd0", [], [], "hexpm"}}
